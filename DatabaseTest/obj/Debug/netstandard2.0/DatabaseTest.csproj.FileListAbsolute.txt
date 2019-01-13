@@ -1,0 +1,12 @@
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\bin\Debug\netstandard2.0\DatabaseTest.deps.json
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\bin\Debug\netstandard2.0\DatabaseTest.dll
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\DatabaseTest.csprojAssemblyReference.cache
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\bin\Debug\netstandard2.0\DatabaseTest.pdb
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\DatabaseTest.dll
+C:\Users\cassadab\source\repos\DatabaseTest\DatabaseTest\obj\Debug\netstandard2.0\DatabaseTest.pdb
